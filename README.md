@@ -15,8 +15,8 @@ Berikut adalah langkah-langkah untuk menjalankan sistem ini di lingkungan lokal 
 1. **Clone Repository**
 
     ```bash
-    git clone <url-repo-anda>
-    cd ProyekRPL - Copy
+    git clone https://github.com/itshzlnust/Proyek-RPL.git
+    cd Proyek-RPL
     ```
 
 2. **Install Dependencies**

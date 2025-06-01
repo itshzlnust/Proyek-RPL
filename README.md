@@ -6,11 +6,14 @@ Berikut adalah langkah-langkah untuk menjalankan sistem ini di lingkungan lokal 
 
 -   PHP >= 8.1
 -   Composer
+-   Visual Studio Code (Sebagai Text editor)
 -   Node.js & npm
 -   Database (MySQL, SQLite, dsb.)
 -   Laragon/XAMPP/WAMP (opsional, untuk Windows)
 
 ## Langkah Instalasi
+
+untuk Langkah langkah ini dilakukan melalui Terminal vscode
 
 1. **Clone Repository**
 

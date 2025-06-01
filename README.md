@@ -52,6 +52,6 @@ Berikut adalah langkah-langkah untuk menjalankan sistem ini di lingkungan lokal 
      php artisan serve
     ```
 8. **Testing**
-   `bash
+  ```bash
      php artisan test
-    `
+  ```
